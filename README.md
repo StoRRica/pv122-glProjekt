@@ -11,7 +11,8 @@ Klavesou m sa prepina vykreslovaci mod.
 Klavesy 1,2,3 vypinaju svetla na ziarkovkach.
 
 
-pv-122- gl project
+# pv-122 gl project (En)
+
 
 Camera movement on arroww keys
 
